@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+/* REDUCIR TAMAÑO SVG NAVBAR */
+
+
+.navbar-brand img {
+  width: 10%;
+  height: 10%;
+}
+
+
+/* DESAPARECER QUIENES SOMOS */
+
+@media screen and (max-width: 600px) {
+  #desaparecer {
+    display: none;
+  }
+}
+
+/* DESAPARECER LOGO PLANETA NAVBAR */
+@media screen and (max-width: 600px) {
+  #logoplaneta {
+    display: none;
+  }
+}
+
+/* GOOGLE FONTS PARA TÍTUTLOS */
+
+h4 {
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
