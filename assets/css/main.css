@@ -1,15 +1,15 @@
+/* FONDO PAGINA */
+
 body {
   background-color: black;
 }
 
 /* REDUCIR TAMAÑO SVG NAVBAR */
 
-
 .navbar-brand img {
   width: 10%;
   height: 10%;
 }
-
 
 /* DESAPARECER QUIENES SOMOS */
 
